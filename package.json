@@ -2,7 +2,7 @@
   "name": "@alexeynegru/ajs",
   "version": "1.0.0",
   "description": "",
-  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ddist/index.js)",
+  "main": "dist/index.js",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   },
